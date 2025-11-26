@@ -4,7 +4,7 @@
 
 * To win the challenge, you have to collect stars by solving programming puzzles in your spare time
 * Every silver star counts 1 point, every gold star counts 2 points
-* The points will be summed up on the 31.12.2024 at 12:00
+* The points will be summed up on the 31.12.2025 at 12:00
 * Keep all your source code used to solve the puzzles in order to be eligible to win (I recommend a private GitHub repo, that you can make public at the end of the challenge)
 
 ## How to participate
