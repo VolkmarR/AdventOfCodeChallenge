@@ -4,7 +4,7 @@
 
 * To win the challenge, you have to collect stars by solving programming puzzles in your spare time
 * Every silver star counts 1 point, every gold star counts 2 points
-* The points will be summed up on ~31.12.2025 at 12:00~ **15.12.2025 at 9:00**
+* The points will be summed up on ~31.12.2025 at 12:00~ **19.12.2025 at 9:00**
 * Keep all your source code used to solve the puzzles in order to be eligible to win (I recommend a private GitHub repo that you can make public at the end of the challenge)
 
 ## How to participate
@@ -21,12 +21,12 @@
 
 ### Champion prize 
 
-* The participant with the most points on ~31.12.2025 at 12:00~ **15.12.2025 at 9:00** will win
+* The participant with the most points on ~31.12.2025 at 12:00~ **19.12.2025 at 9:00** will win
 * If one of the participants collects all ~50~ 24 stars before the end of the challenge, he/she will win automatically 
 
 ### Best newcomer prize 
 
-* The participant with the most points on ~31.12.2025 at 12:00~ **15.12.2025 at 9:00** that did not win a prize in the past will win
+* The participant with the most points on ~31.12.2025 at 12:00~ **19.12.2025 at 9:00** that did not win a prize in the past will win
 * A minimum of 10 stars is required to be eligible to win 
 
 # Hall of fame
