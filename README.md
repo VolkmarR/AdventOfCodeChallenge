@@ -33,8 +33,8 @@
 
 ## 2025
 
-* ?
-* ?
+* Philipp Priller
+* Tezza Michael
 
 ## 2024
 
